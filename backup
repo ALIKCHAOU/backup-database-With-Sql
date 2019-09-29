@@ -1,0 +1,3 @@
+use  AgroLivaHuilerie2019;
+go
+backup database AgroLivaHuilerie2019  to disk='e:\backup\Agro.bak';
